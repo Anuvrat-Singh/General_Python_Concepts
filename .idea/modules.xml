@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../apiAutoSample/.idea/apiAutoSample.iml" filepath="$PROJECT_DIR$/../apiAutoSample/.idea/apiAutoSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sampleStructure/.idea/sampleStructure.iml" filepath="$PROJECT_DIR$/../sampleStructure/.idea/sampleStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/testSelenium.iml" filepath="$PROJECT_DIR$/.idea/testSelenium.iml" />
+    </modules>
+  </component>
+</project>
